@@ -1,0 +1,42 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.wrapper {
+    color: white;
+}
+
+img {
+    object-fit: cover;
+    object-position: center;
+    /* top: 82.67px;
+    left: -74.67px;
+    opacity: 80%; */
+}
+#top-title {
+width: 334px;
+height: 128px;
+top: 141px;
+left: 45px;
+/* font-family: Inter; */
+font-size: 58px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: -0.02em;
+color: #101828;
+}
+.titles {
+    color: #101828;
+}
+.paragraph {
+    /* font-family: Inter; */
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+color: #6B7280;
+}
+#last-paragraph {
+    color: #082BD6;
+    font-size: 20px;
+}
